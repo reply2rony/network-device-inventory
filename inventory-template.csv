@@ -1,0 +1,9 @@
+device_id,device_type,location,status,ip_address,serial_number,notes
+RT-01,Router,Server Room,In use,192.168.1.1,SAMPLE-RT-0001,Main office router (sample)
+SW-01,Switch,Server Room,In use,192.168.1.2,SAMPLE-SW-0001,24-port switch (sample)
+SW-02,Switch,First Floor,In use,192.168.1.3,SAMPLE-SW-0002,8-port switch (sample)
+AP-01,Access Point,Reception,In use,192.168.1.10,SAMPLE-AP-0001,Guest Wi-Fi access point (sample)
+AP-02,Access Point,Meeting Room,Spare,,SAMPLE-AP-0002,Kept as a swap-in spare (sample)
+PR-01,Printer,Accounts Office,Under repair,192.168.1.20,SAMPLE-PR-0001,Waiting for a replacement part (sample)
+FW-01,Firewall,Server Room,In use,192.168.1.254,SAMPLE-FW-0001,Edge firewall (sample)
+SW-03,Switch,Storage Room,Retired,,SAMPLE-SW-0003,Removed from service in the sample (sample)

@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+# Never commit a real inventory export or any credential file.
+*-real.csv
+*.key
+*.pem
+.env
